@@ -1,0 +1,2 @@
+# .github
+Eoxserver readme repository
